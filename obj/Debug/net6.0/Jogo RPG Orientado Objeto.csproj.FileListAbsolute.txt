@@ -1,0 +1,15 @@
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\bin\Debug\net6.0\Jogo RPG Orientado Objeto.exe
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\bin\Debug\net6.0\Jogo RPG Orientado Objeto.deps.json
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\bin\Debug\net6.0\Jogo RPG Orientado Objeto.runtimeconfig.json
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\bin\Debug\net6.0\Jogo RPG Orientado Objeto.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\bin\Debug\net6.0\Jogo RPG Orientado Objeto.pdb
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\obj\Debug\net6.0\Jogo RPG Orientado Objeto.csproj.AssemblyReference.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\obj\Debug\net6.0\Jogo RPG Orientado Objeto.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\obj\Debug\net6.0\Jogo RPG Orientado Objeto.AssemblyInfoInputs.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\obj\Debug\net6.0\Jogo RPG Orientado Objeto.AssemblyInfo.cs
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\obj\Debug\net6.0\Jogo RPG Orientado Objeto.csproj.CoreCompileInputs.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\obj\Debug\net6.0\Jogo RPG Orientado Objeto.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\obj\Debug\net6.0\refint\Jogo RPG Orientado Objeto.dll
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\obj\Debug\net6.0\Jogo RPG Orientado Objeto.pdb
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\obj\Debug\net6.0\Jogo RPG Orientado Objeto.genruntimeconfig.cache
+E:\CURSO C#  OO\DIO\BootCamp C# DIO\Jogo RPG Orientado Objeto\obj\Debug\net6.0\ref\Jogo RPG Orientado Objeto.dll

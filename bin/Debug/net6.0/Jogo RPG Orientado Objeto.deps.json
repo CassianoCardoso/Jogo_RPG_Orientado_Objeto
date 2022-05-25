@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Jogo RPG Orientado Objeto/1.0.0": {
+        "runtime": {
+          "Jogo RPG Orientado Objeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jogo RPG Orientado Objeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
